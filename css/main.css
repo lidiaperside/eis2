@@ -57,7 +57,7 @@ h2 a,
 h3 a,
 h4 a,
 h5 a,
-h6 a { color: #fac0f9;}
+h6 a { color: #51a8b1;}
 p a,
 p a:hover { text-decoration:underline; }
 p {
@@ -79,7 +79,7 @@ img {
 	height: auto;
 	max-width: 100%;
 }
-strong { color: #fac0f9; }
+strong { color: #51a8b1; }
 iframe {
 	width: 100%;
 	float: left;
@@ -936,7 +936,7 @@ address { font-style: italic; }
 	font-family: 'Poppins', Arial, Helvetica, sans-serif;
 }
 .hb-cart li h3 span{
-	color: #fac0f9;
+	color: #51a8b1;
 	display: block;
 	font-size: 14px;
 	font-weight: 400;
@@ -949,14 +949,14 @@ address { font-style: italic; }
 }
 .hb-total{
 	width: 100%;
-	color: #fac0f9;
+	color: #51a851;
 	display: block;
 	padding: 20px 0;
 	font-size: 14px;
 	font-weight: 500;
 	line-height: 17px;
 	 text-transform: uppercase;
-	border-top: 1px solid #e5e5e5;
+	border-top: 1px solid #bcdadb;
 	font-family: 'Poppins', Arial, Helvetica, sans-serif;
 }
 .hb-total em{
@@ -1676,7 +1676,7 @@ address { font-style: italic; }
 	line-height: 21px;
 }
 .hb-servicecontent h3 em{
-	color: #fac0f9;
+	color: #51a8b1;
 	display: block;
 	font-size: 24px;
 	font-weight: 400;

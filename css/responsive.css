@@ -3030,14 +3030,14 @@ readers do not read off random characters that represent icons */
           border-bottom: 1px solid #c1bfda; }
           .navbar-collapse ul li a:hover {
             color: #fff;
-            background: #fac0f9; }
+            background: #51a8b1; }
       .navbar-collapse ul li.hb-open a {
         color: #fff;
-        background: #fac0f9; }
+        background: #51a8b1; }
       .navbar-collapse ul li.hb-open .sub-menu li a {
         background: #fff; }
         .navbar-collapse ul li.hb-open .sub-menu li a:hover {
-          background: #fac0f9; }
+          background: #51a8b1; }
   .navbar-collapse.collapse.in {
     display: block !important; }
   .sub-menu {
