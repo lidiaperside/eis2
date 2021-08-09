@@ -3069,13 +3069,13 @@ readers do not read off random characters that represent icons */
   .v2 .hb-navigation > ul > li {
     padding: 0; }
   .v2 .hb-navigation ul li a {
-    color: #7a7992; }
+    color: #040c53; }
     .v2 .hb-navigation ul li a:hover {
       color: #fff; }
   .v3 .hb-info-area {
     width: 30%; }
   .v3 .navbar-toggle .icon-bar {
-    background: #7a7992; }
+    background: #040c53; }
   .v3 .navbar-header {
     width: 46px;
     float: none;
